@@ -25,5 +25,7 @@ N_coins=[index_500,index_100,index_50,index_10]
 
 print(N_coins)
 
+##생각해보니 이걸 좀 바꿔봤어
+
 
 
